@@ -61,5 +61,5 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 
 ## 📧 Contact
 
-* **LinkedIn :** https://www.linkedin.com/in/jeremysegbeame/
+* **LinkedIn :** https://www.linkedin.com/in/jsegbeame-37b18b311/
 * **Email Pro :** segbeamejeremie@gmail.com
