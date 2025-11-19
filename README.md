@@ -6,7 +6,7 @@ Je suis un passionné d'infrastructure et de réseau qui aime faire les choses *
 
 Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. Si un projet touche au **réseau**, aux **serveurs** ou à la **sécurité**... je fonce !
 
----
+
 
 ## 🛠️ Compétences Clés
 
@@ -16,7 +16,7 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * **Automatisation & Scripting :** Bash, PowerShell, Python
 * **Supervision :** Grafana, Zabbix, Prometheus
 
----
+
 
 ## 📂 Projets Principaux
 
@@ -26,7 +26,7 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * **Monitoring complet et alertes** de l'infrastructure réseau et serveur (Prometheus + Grafana).
 * **Scripts d'automatisation** pour tâches récurrentes sur environnements Windows, Linux et macOS.
 
----
+
 
 ##  Ma Stack Technologique
 
@@ -38,7 +38,7 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 | **Scripting & Dev** | Bash, PowerShell, Python |
 | **Supervision** | Grafana, Zabbix, Prometheus |
 
----
+
 
 ##  Objectifs
 
@@ -57,7 +57,7 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * Contribuer à des **projets open-source** liés au réseau ou à la supervision.
 * Monter un **Home Lab professionnel** multi-sites pour tests et R&D avancés.
 
----
+
 
 ## 📧 Contact
 
