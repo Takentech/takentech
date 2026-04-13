@@ -1,6 +1,6 @@
-# 👨‍💻 Jeremy Segbeame — Technicien Réseau & Étudiant BTS SIO SISR
+#  Jeremy Segbeame — Technicien Réseau & Étudiant BTS SIO SISR
 
-## 📝 Bio Générale
+## Bio Générale
 
 Je suis un passionné d'infrastructure et de réseau qui aime faire les choses **proprement, simplement et efficacement**. J'adore monter des environnements, comprendre comment tout s'emboîte et automatiser ce qui peut l'être pour gagner du temps.
 
