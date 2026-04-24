@@ -44,18 +44,18 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 
 ###  Objectif Court Terme (2025)
 
-* **Obtenir mon BTS SIO SISR** (Solutions d'Infrastructure, Systèmes et Réseaux).
-* Monter une **infrastructure d'entreprise complète** et documentée (du câblage logique au déploiement de services).
-* **Renforcer mes compétences en sécurité réseau** (durcissement, firewalling avancé).
+* []**Obtenir mon BTS SIO SISR** (Solutions d'Infrastructure, Systèmes et Réseaux).
+* [x]Monter une **infrastructure d'entreprise complète** et documentée (du câblage logique au déploiement de services).
+* [x]**Renforcer mes compétences en sécurité réseau** (durcissement, firewalling avancé).
 
 ###  Objectifs à Long Terme
 
-* Devenir **Administrateur Système & Réseau confirmé**.
-* Maîtriser l'**automatisation avancée** (Ansible, scripts multi-OS complexes).
-* Construire une infrastructure complète **haute disponibilité & sécurisée**.
-* Approfondir la **cybersécurité réseau** (firewalling avancé, durcissement des systèmes, déploiement d'un SIEM).
-* Contribuer à des **projets open-source** liés au réseau ou à la supervision.
-* Monter un **Home Lab professionnel** multi-sites pour tests et R&D avancés.
+* [] Devenir **Administrateur Système & Réseau confirmé**.
+* [] Maîtriser l'**automatisation avancée** (Ansible, scripts multi-OS complexes).
+* [x] Construire une infrastructure complète **haute disponibilité & sécurisée**.
+* [] Approfondir la **cybersécurité réseau** (firewalling avancé, durcissement des systèmes, déploiement d'un SIEM).
+* [] Contribuer à des **projets open-source** liés au réseau ou à la supervision.
+* [x] Monter un **Home Lab professionnel** multi-sites pour tests et R&D avancés.
 
 
 
