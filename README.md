@@ -1,4 +1,4 @@
-#  Jeremy Segbeame — Technicien Réseau & Étudiant BTS SIO SISR
+#  Jeremie Segbeame — Futur expert en cybersécurtié
 
 ## Bio Générale
 
