@@ -45,8 +45,8 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 ###  Objectif Court Terme (2025)
 
 * [ ] **Obtenir mon BTS SIO SISR** (Solutions d'Infrastructure, Systèmes et Réseaux).
-* [x]Monter une **infrastructure d'entreprise complète** et documentée (du câblage logique au déploiement de services).
-* [x]**Renforcer mes compétences en sécurité réseau** (durcissement, firewalling avancé).
+* [x] Monter une **infrastructure d'entreprise complète** et documentée (du câblage logique au déploiement de services).
+* [x] **Renforcer mes compétences en sécurité réseau** (durcissement, firewalling avancé).
 
 ###  Objectifs à Long Terme
 
