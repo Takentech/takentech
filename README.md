@@ -57,9 +57,3 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * [ ] Contribuer à des **projets open-source** liés au réseau ou à la supervision.
 * [x] Monter un **Home Lab professionnel** multi-sites pour tests et R&D avancés.
 
-
-
-## 📧 Contact
-
-* **LinkedIn :** https://www.linkedin.com/in/jsegbeame-37b18b311/
-* **Email Pro :** segbeamejeremie@gmail.com
