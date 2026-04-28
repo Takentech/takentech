@@ -15,7 +15,7 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * **Virtualisation & Conteneurs :** Proxmox, VMware (ESXi), Docker, Docker Compose
 * **Automatisation & Scripting :** Bash, PowerShell, Python
 * **Supervision :** Grafana, Zabbix, Prometheus
-
+* **Developpement :** HTML, CSS, Javascript, Python, C
 
 
 ## 📂 Projets Principaux
