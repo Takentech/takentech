@@ -25,6 +25,8 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * **Administration d'un réseau d'entreprise** avec Active Directory, gestion des GPO et des accès utilisateurs.
 * **Monitoring complet et alertes** de l'infrastructure réseau et serveur (Prometheus + Grafana).
 * **Scripts d'automatisation** pour tâches récurrentes sur environnements Windows, Linux et macOS.
+* **Développement d'une page web de lecture de mangas**
+* **Développement d'une page web monitoring (CPU, Disque, RAM, Uptime)**
 
 
 
