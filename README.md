@@ -29,19 +29,6 @@ Curieux, motivé et toujours partant pour apprendre de nouvelles technologies. S
 * **Développement d'une page web monitoring (CPU, Disque, RAM, Uptime)**
 
 
-
-##  Ma Stack Technologique
-
-| Catégorie | Technologies |
-| :--- | :--- |
-| **Systèmes** | Linux (Debian, Ubuntu), Windows Server |
-| **Réseau** | VLAN, DNS, DHCP, Firewall, Cisco, VPN |
-| **Conteneurs & Virtualisation** | Docker, Docker Compose, Proxmox, VMware (ESXi) |
-| **Scripting & Dev** | Bash, PowerShell, Python |
-| **Supervision** | Grafana, Zabbix, Prometheus |
-
-
-
 ##  Objectifs
 
 ###  Objectif Court Terme (2025)
